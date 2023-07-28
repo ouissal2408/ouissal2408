@@ -1,0 +1,13 @@
+.parent{
+    margin: 10px;
+display: block;
+    justify-content: center;
+}
+.parent div{
+      padding:10px;
+      margin: 10px;
+background-color: blueviolet;
+}
+.hit{
+    color: blueviolet;
+}
